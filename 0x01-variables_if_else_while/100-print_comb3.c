@@ -1,4 +1,3 @@
-100-print_comb3.c#include <stdio.h>
 /**
  * main - print numbers from 00 to 99.
 (*
