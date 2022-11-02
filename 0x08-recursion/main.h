@@ -1,5 +1,6 @@
 #ifdef MAIN_H
 #define MAIN_H
+#define putchar(c) putc(c, stdout)
 
 int _putchar(char c);
 void _puts_recursion(char *s);
